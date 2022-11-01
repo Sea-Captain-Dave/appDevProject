@@ -1,0 +1,11 @@
+C:\Users\lands\Class Stuff\App Dev\appHolder\App\OverallApp\OverallApp\obj\Debug\OverallApp.csproj.AssemblyReference.cache
+C:\Users\lands\Class Stuff\App Dev\appHolder\App\OverallApp\OverallApp\obj\Debug\OverallApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\lands\Class Stuff\App Dev\appHolder\App\OverallApp\OverallApp\obj\Debug\OverallApp.Form1.resources
+C:\Users\lands\Class Stuff\App Dev\appHolder\App\OverallApp\OverallApp\obj\Debug\OverallApp.Properties.Resources.resources
+C:\Users\lands\Class Stuff\App Dev\appHolder\App\OverallApp\OverallApp\obj\Debug\OverallApp.csproj.GenerateResource.cache
+C:\Users\lands\Class Stuff\App Dev\appHolder\App\OverallApp\OverallApp\obj\Debug\OverallApp.csproj.CoreCompileInputs.cache
+C:\Users\lands\Class Stuff\App Dev\appHolder\App\OverallApp\OverallApp\bin\Debug\OverallApp.exe.config
+C:\Users\lands\Class Stuff\App Dev\appHolder\App\OverallApp\OverallApp\bin\Debug\OverallApp.exe
+C:\Users\lands\Class Stuff\App Dev\appHolder\App\OverallApp\OverallApp\bin\Debug\OverallApp.pdb
+C:\Users\lands\Class Stuff\App Dev\appHolder\App\OverallApp\OverallApp\obj\Debug\OverallApp.exe
+C:\Users\lands\Class Stuff\App Dev\appHolder\App\OverallApp\OverallApp\obj\Debug\OverallApp.pdb
